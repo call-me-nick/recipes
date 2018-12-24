@@ -4,14 +4,14 @@
 
 * white onion
 * garlic
-* pepper
-* salt
 * celery
 * carrots
 * split peas
 * ham
 * "Better Than Bouillon" veggie base.
 * Non-stick spray.
+* salt
+* pepper
 * water
 
 ## Prepare
