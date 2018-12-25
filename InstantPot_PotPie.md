@@ -16,7 +16,7 @@
 * pepper
 * water
 
-## Cook filling
+## Cook Filling
 
 | *Ingredient* | *Amount* |
 | --- | --- |
@@ -45,10 +45,7 @@
 | cornstarch | 2 tablespoons |
 
 * Mix the dry flour and cornstarch.
-* While the mix above is still hot, mix in the dry flour and cornstarch mixture while stirring.
-
-
-
+* While the mix above is still hot, mix in the dry flour/cornstarch **while stirring**, being careful to **sprinkle it lightly**.
 
 ## Bake
 
