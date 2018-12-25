@@ -4,7 +4,7 @@
 
 * flour
 * butter
-* shortning
+* shortening
 * salt
 * water
 
@@ -16,7 +16,7 @@
 | salt | 1 1/4 teaspoons |
 | | |
 | butter | 6 tablespoons |
-| shortning | 3/4 cups |
+| shortening | 3/4 cups |
 | water | up to 1 cup |
 
 ## Half Recipe
@@ -27,17 +27,17 @@
 | salt | 3/4 teaspoons |
 | | |
 | butter | 3 tablespoons |
-| shortning | 3/8 cups |
+| shortening | 6 tablespoons |
 | water | up to 1 cup |
 
 ## Preparation
 
-ALL ingredients should be cold to start. Especially the butter and shortning.
+ALL ingredients should be cold to start. Especially the butter and shortening.
 
 1. Mix the dry ingredients (flour, salt)
 1. Add
    * butter
-   * shortning
+   * shortening
 1. Mix with a fork or pastry cutter until there are small and large lumps of dough.
 1. Add water
    * ONE TABLESPOON at a time!
@@ -46,7 +46,6 @@ ALL ingredients should be cold to start. Especially the butter and shortning.
 1. Dust a working surface with flour and make a large dough ball.
 1. Cut as desired.
 1. Flatten into pucks.
-1. Containerize and refridgerate 2 hours minimum.
+1. Containerize and refrigerate 2 hours minimum.
 
 The pucks can each be rolled out to fit your pie shells after chilling.
-
