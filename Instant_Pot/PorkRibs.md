@@ -20,7 +20,8 @@
 
 ## Pressure Cook
 
-* High pressure, 25 minutes, quick release.
+* High pressure, 45 minutes
+* 10-12 minute natural release.
 
 ## Prepare
 
