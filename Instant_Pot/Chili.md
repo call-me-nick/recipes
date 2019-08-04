@@ -4,9 +4,10 @@
 
 | *ingredient* | *amount* |
 | --- | --- |
-| kidney beans | 1 pound |
+| red beans | 2 cups dry beans |
+| water | *See below. |
 
-Sort the beans (take out the bad ones and any stones), rinse and put them in a bowl by themselves. Cover the beans with water and add another inch of water above that.
+Sort the beans (take out the bad ones and any stones), rinse and put them in a 4 cup measuring cup and fill it to the 4 cup line with water. Soak until they're needed.
 
 ## Prepare Seasonings
 
@@ -18,8 +19,9 @@ In a bowl, get these ready to go.
 | pepper | 1/2 teaspoon |
 | chili powder | 2 tablespoons |
 | cumin powder | 1 teaspoon |
-| bouillon | 2 tablespoons |
 | dried oregano | 1 teaspoon |
+| dried celery | 3 tablespoons |
+| bouillon | 2 tablespoons |
 
 Prefer veggie "Better Than Bouillon".
 
@@ -30,19 +32,19 @@ Prefer veggie "Better Than Bouillon".
 | onion | 1/2 |
 | minced garlic | 1 tablespoon |
 | poblano pepper | 1 large |
-| celery | 3 stalks |
 | butter or ghee | 3 tablespoons |
 | olive oil | 4 tablespoons |
+| *optional* bacon fat | 1/2 cup |
 
 ## Add Meat
 
 | *ingredient* | *amount* |
 | --- | --- |
-| meat | 1 pound |
+| meat | 1 to 2.5 pound(s) |
 
-Pork (chunks), hamburger, chunks of chicken, ground turkey... Any of these will work.  It might even be good with paneer or tofu.
+Pork (chunks), soy curls (excellent!), beef chunks, chicken chunks, ground turkey, etc ... Any of these will work.  It might even be good with paneer.
 
-Our first try used chunks of boneless pork ribs. Yum!
+Our first try used chunks of boneless pork ribs. Yum! Using a bag of soy curls came out really well, too.
 
 Let the meat cook a little to a light brown. Don't worry if it's not cooked all the way thru. It will cook when it's under pressure later.
 
