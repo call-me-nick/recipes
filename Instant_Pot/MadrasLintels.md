@@ -30,7 +30,7 @@ Stir the above.
 
 ## Add
 
-* 1 cups of Heavy Whipping cream
+* 1 cup of coconut cream or Heavy Whipping cream
 
 ## Ref
 
