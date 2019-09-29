@@ -4,14 +4,14 @@
 
 | *ingredient* | *amount* |
 | --- | --- |
-| apple cider vinegar | 1/4 cup |
+| apple cider vinegar | 2 tablespoons |
 | water | 1 cups |
 | pork ribs | 4 lbs or more |
 | barbeque sauce | (optional) 1 bottle |
 
 ## Prepare to pressure cook
 
-You can use a dry-rub here. For example: lemon-pepper and goju garu If you decide to go this way, you may not need any barbeque sauce when the ribs are done baking.
+You can use a dry-rub here, if you wish. For example: lemon-pepper and goju garu If you decide to go this way, you may not need any barbeque sauce when the ribs are done baking.
 
 1. Put the rack in the bottom of the Instant Pot before putting in the ribs to allow a space for the liquid (to avoid a burn notice).
 1. Add water and vinegar below the rack.

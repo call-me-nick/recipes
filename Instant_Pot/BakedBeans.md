@@ -8,7 +8,7 @@ Put the beans in a large measuring up, and add the water. Soak until we're ready
 
 | *ingredient* | *amount* |
 | --- | --- |
-| red beans | 1 cup |
+| red beans | 1 1/4 cups |
 | water | 4 cups |
 
 ### Add to InstantPot
@@ -26,7 +26,7 @@ Measure the following into a dish:
 | salt | 1 teaspoon |
 | mustard seed (or spicy brown mustard)| 1 tablespoon |
 | dried bell pepper | 2 tablespoons |
-| brown sugar | 1/2 cup |
+| brown sugar | 1/3 cup |
 | apple cider vinegar | 1 tablespoon |
 | bbq sauce | 1/4 cup |
 | tomato paste | 1 8oz can |
@@ -50,4 +50,4 @@ Measure the following into a dish:
 ### Pressure Cook
 
 * 60 minutes.
-* Quick depressurize.
+* Natural depressurize.
