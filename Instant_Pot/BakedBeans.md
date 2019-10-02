@@ -1,5 +1,7 @@
 # "Baked" Beans
 
+This recipe makes sweet "baked" beans. The bbq sauce selection makes a bit difference in flavor. _Sweet Baby Ray's_ is the best one tested, so far.
+
 ## Prepare
 
 ### Soak
@@ -26,9 +28,9 @@ Measure the following into a dish:
 | salt | 1 teaspoon |
 | mustard seed (or spicy brown mustard)| 1 tablespoon |
 | dried bell pepper | 2 tablespoons |
-| brown sugar | 1/3 cup |
-| apple cider vinegar | 1 tablespoon |
-| bbq sauce | 1/4 cup |
+| brown sugar | 1/2 cup |
+| apple cider vinegar | 1 teaspoon |
+| bbq sauce | 1/2 cup |
 | tomato paste | 1 8oz can |
 
 ### Chop
@@ -49,5 +51,5 @@ Measure the following into a dish:
 
 ### Pressure Cook
 
-* 60 minutes.
+* 75 minutes.
 * Natural depressurize.
