@@ -34,6 +34,10 @@ The recipes should follow the listed goals and style guidelines:
 
 The following are notes that may be useful to the reader.
 
+### Ingredients
+
+*Onions* - `Since onions come in different sizes, what do you mean by 1/2 an onion?` An onion the size of a baseball is 1/2 of an onion. An onion slightly smaller than a softball is a whole onion.
+
 ### Instant Pot
 
 If you don't own one, you're really missing out. For excellent, repeatable, set-and-forget cooking, this is an amazing tool.  Here are links to the two I own:

@@ -2,6 +2,27 @@
 
 This is a small-batch recipe.
 
+| *ingredient* | *amount* |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+| *ingredient* | *amount* |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 ## Shopping List
 
 | *-* | *-* | *-* |
