@@ -2,45 +2,53 @@
 
 ## Ingredients
 
-* white onion
-* garlic
-* celery
-* carrots
-* split peas
-* ham
-* "Better Than Bouillon" veggie base.
-* Non-stick spray.
-* salt
-* pepper
-* water
+## Prepare Ingredients
 
-## Prepare
+### In a bowl
 
-* chop 1 cup onion
-* 1 clove garlic
-* 1/4 teaspoon pepper
-* 1/2 teaspoon salt
-* chop 1.5 cups celery
-* chop 1.5 cups carrots
+| *ingredient* | *amount* |
+| --- | --- |
+| split peas | 2 cups dried |
+| water | 5 cups |
+| "Better Than Bouillon" veggie base. | 2 tablespoons |
 
-Saute the above:
+Place split peas in a large bowl, add water and bouillon. Let the peas soak until we're ready for them again.
 
-1. Non-stick spray the pot.
-1. Turn on `saute`
-1. Saute for ~10 minutes.
+### In a another bowl
 
-Dump in the Rest:
+| *ingredient* | *amount* |
+| --- | --- |
+| onion | 1 cup chopped |
+| garlic | 1 clove |
 
-* 5 cups water
-* 2 cups of dry split peas (sort out any rocks/stones, tho)
-* 3/4 lb of ham in small cubes
-* 2 tablespoons "Better Than Bouillon" veggie base
+### In yet-another bowl
 
-Stir.
+| *ingredient* | *amount* |
+| --- | --- |
+| celery | 1.5 cups fresh chopped (or 3/4 cup dried) |
+| carrots | 1.5 cups chopped |
+| ham (optional) | 1/2 to 3/4 lbs cubed |
+| pepper | 1/4 teaspoon |
+| salt | 1/2 teaspoon |
 
-## Pressurize
+## Saute
 
-* Run the rice program.
+| *ingredient* | *amount* |
+| --- | --- |
+| olive oil or ghee | 3 tablespoons |
+
+1. Turn InstantPot on `saute`
+1. Heat up until ghee melted or olive oil almost smoking.
+1. Add onions.
+1. Saute until onions are clear and shiny.
+1. Add celery, carrots, garlic and ham mixture
+1. Saute for a minute or two.
+1. Add spices and mix for a minute.
+1. Dump in the peas mixture.
+
+## Pressure Cook
+
+* High pressure 10 min.
 * Let it depressurize naturally.
 * Stir.
 * Done.
