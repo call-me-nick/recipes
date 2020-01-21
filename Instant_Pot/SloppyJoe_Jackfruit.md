@@ -26,4 +26,3 @@ This is a vegan recipe.
 * You will likely hit the `burn` notice. That is OK.
 * When either the `burn` notice or cooking is done, do a quick release.
 * Stir and serve on the bread of your choice.
-

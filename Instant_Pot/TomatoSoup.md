@@ -23,7 +23,7 @@ Don't let the butter burn!
 | *ingredient* | *amount* |
 | --- | --- |
 | water | 3 cups |
-| "Better Than Bouillon" | 3 teaspoons |
+| "Better Than Bouillon" | 1 tablespoon |
 
 ### In a bowl, get this ready
 
