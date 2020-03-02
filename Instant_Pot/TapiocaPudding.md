@@ -8,7 +8,7 @@ This recipe uses 2 different sized tapioca pearls.  This adds a nice mixture of 
 
 | *ingredient* | *amount* |
 | --- | --- |
-| *large* tapioca pearls (~1/4" or ~6mm) | 1/3 |
+| *large* tapioca pearls (~1/4" or ~6mm) | 1/3 cup |
 
 Get these soaking right away, in *hot* water, **45 minutes**.
 
