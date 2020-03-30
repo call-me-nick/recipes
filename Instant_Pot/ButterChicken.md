@@ -1,44 +1,59 @@
-# Instant Pot - Butter Chicken
+# Butter Chicken
 
-```text
-1/4 c veg oil to instant pot - Saute mode
-6 cloves minced garlic ( or 2 T container garlic )
-Saute about 1 min.
-Turn Off
+## Chop
 
-Now turn on Saute mode and then Adjust to Low setting.
-Add 1 can tomato paste.
-Cook 1 min.
+Chop an onion and add other ingredients to a bowl:
 
-Add spices:
-1 t salt
-1 T paprika
-1 t cumin
-1 t turmeric
-1 t coriander
-2 t garam masala
+| *ingredient* | *amount* |
+| --- | --- |
+| onion | 1 medium |
+| garlic | 1 tablespoon |
+| ginger | 1 teaspoon |
 
-Stir 4 mins.
-Turn off
+## Prepare Spices
 
-Cut 1 lb boneless skinless chicken thighs into bite size pieces.
+In a bowl:
 
-Add 3/4 cup water to pot. Add chicken and stir.
+| *ingredient* | *amount* |
+| --- | --- |
+| garam masala | 1 tablespoon |
+| chili powder | 1 teaspoon |
+| fenugreek powder | 1 teaspoon |
+| cumin powder | 1 teaspoon |
+| salt | 1 teaspoon |
+| black pepper | 1/4 teaspoon |
 
-Put on lid.
-Select Poultry and adjust time to 5 mins.
+## Get Ingredients Ready
 
-Turn pot Off.
-Manual release.
+| *ingredient* | *amount* |
+| --- | --- |
+| chicken | 1 1/2 pounds diced large |
+| paneer | 1/2 pound diced large |
+| tomato paste | 1 6-ounce can |
+| coconut cream |1 14-ounce can |
+| ghee | 3 tablespoons |
+| water | 1 cup |
 
-Stir pot.
-Select Saute mode.
+## Cooking
 
-Add 1 1/2 c whipping cream
-Stir.
-Serve.
-```
+1. Add ghee to InstantPot
+1. Set InstantPot to `Saute`
+1. Add onions, garlic, ginger.
+1. Saute until onions look slippery and translucent.
+1. Add spices.
+1. Stir until completely mixed in.
+1. Add 
+   * tomato paste
+   * chicken
+   * paneer
+   * coconut cream
+   * water
+1. Stir
+1. Set for 5 minutes, high pressure
 
-## References
+If you get a 'burn' notice, let it continue to try to come up to pressure. When it finally pressurizes (steam stops comming out, before the countdown starts) press `cancel`.
 
-Derived from [Flo Lum's recipe here](https://youtu.be/hPIzvYax7f0).
+1. Naturally depressurize
+1. Stir
+1. Serve with rice, naan, chipati, paratha, etc.
+
