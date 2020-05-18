@@ -8,7 +8,7 @@ One annoying thing about the above linked recipe is that it assumes the baker ha
 
 ## Starter and Starter Maintenance
 
-
+TBA - 
 
 ## Bread Recipe
 
@@ -21,3 +21,9 @@ One annoying thing about the above linked recipe is that it assumes the baker ha
 | flour | 3 1/8 cups |
 | salt | 1 1/2 teaspoons |
 
+* Add starter, water and flour.
+* Mix and cover for 30 minutes.
+* Add salt and mix. 
+* Every 30 minutes for 4 hours:  
+    * Wet hands and turn the bowl to fold into the middle from 4 sides. 
+* Cover and refrigerate 8 to 24 hours. Longer is better.
