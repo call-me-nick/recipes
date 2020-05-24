@@ -26,4 +26,8 @@ TBA -
 * Add salt and mix. 
 * Every 30 minutes for 4 hours:  
     * Wet hands and turn the bowl to fold into the middle from 4 sides. 
-* Cover and refrigerate 8 to 24 hours. Longer is better.
+* Cover and let set for 6-24 hours.
+* Preheat oven to 480F with dutch oven.
+* Take out dutch oven and carefully place dough in.
+* Bake for 20 min with lid, then 15-20 min without lid.
+* Let bread cool and enjoy :D
