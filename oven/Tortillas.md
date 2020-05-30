@@ -2,7 +2,7 @@
 
 ## Flour Tortillas
 
-Makes 12 torillas
+Makes 12 tortillas
 
 Inspired by: <https://www.allrecipes.com/recipe/157642/homemade-flour-tortillas/>
 
@@ -20,7 +20,7 @@ In a medium bowl, mix:
 
 | *ingredient* | *amount* |
 | --- | --- |
-| ghee | 1 tablepoon |
+| ghee | 1 tablespoon |
 | water | 3/4 cups
 
 ### Procedure

@@ -18,14 +18,18 @@ After you have your starter 'going', you'll need to do weekly maintenance to kee
 1. Add 1/4 cup of room temperature water.
 1. Add 1/4 cup of flour.
 1. Stir
-1. Refrigerate for 1 hour.
-1. Take the jar out of the fridge and store at room temperature until next week.
+1. Refrigerate *both* jars for 1 hour.
+1. Take the jars out of the fridge and store at room temperature until next week.
+
+It's a good idea to wash the 'spare' jar once per month, and strain the spare starter back into the jar.  This will discourage the growth of other yeasts and molds just a bit.
 
 Now **go bake bread**  with the 'spare starter'! :D
 
 ## Bread Recipe
 
 ### Gather Ingredients
+
+The starter can be doubled if you like extra-sour bread. Yum!
 
 | *ingredient* | *amount* |
 | --- | --- |
