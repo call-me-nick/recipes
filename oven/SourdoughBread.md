@@ -8,7 +8,20 @@ One annoying thing about the above linked recipe is that it assumes the baker ha
 
 ## Starter and Starter Maintenance
 
-TBA - 
+After you have your starter 'going', you'll need to do weekly maintenance to keep it going. Every week, to the following:
+
+1. Stir starter until it is homogenous.
+1. Reserve 1/4 cup of starter in a measuring cup.
+1. Dump the rest in your 'spare starter' jar and stir.
+1. *Wash* the starter jar.
+1. Put the 1/4 cup back in the jar.
+1. Add 1/4 cup of room temperature water.
+1. Add 1/4 cup of flour.
+1. Stir
+1. Refrigerate for 1 hour.
+1. Take the jar out of the fridge and store at room temperature until next week.
+
+Now **go bake bread**  with the 'spare starter'! :D
 
 ## Bread Recipe
 
