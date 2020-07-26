@@ -20,7 +20,7 @@ In a bowl:
 | chili powder | 1 teaspoon |
 | fenugreek powder | 1 teaspoon |
 | cumin powder | 1 teaspoon |
-| salt | 1 teaspoon |
+| salt | 1.5 teaspoon |
 | black pepper | 1/4 teaspoon |
 
 ## Get Ingredients Ready
@@ -32,7 +32,7 @@ In a bowl:
 | tomato paste | 1 6-ounce can |
 | coconut cream |1 14-ounce can |
 | ghee | 3 tablespoons |
-| water | 1 cup |
+| water | 1 1/2 cup |
 
 ## Cooking
 

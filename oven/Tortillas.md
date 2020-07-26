@@ -16,6 +16,15 @@ In a medium bowl, mix:
 | salt | 1 teaspoon |
 | baking powder | 1 tablespoon |
 
+Alternative:
+
+| *ingredient* | *amount* |
+| --- | --- |
+| baking powder | 1 teaspoon |
+| sourdough starter | 4 tablespoons |
+
+... and let the sourdough balls sit for 45 minutes before cooking.
+
 ### Measure
 
 | *ingredient* | *amount* |

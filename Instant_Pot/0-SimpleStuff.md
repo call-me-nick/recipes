@@ -7,3 +7,4 @@ This is intended to be a list of things that are simple, like pressure-cooked po
 | whole potatoes | 10 minutes, high pressure, natural depress |
 | brown and white rice | brown first, 10 minutes, add white, 10 minutes |
 | whole carrots | 5 min, high pressure, quick depress |
+| red beets | "cubed" to 1.5 inches, 25 min, high pressure |
