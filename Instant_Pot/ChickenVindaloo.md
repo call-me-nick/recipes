@@ -12,7 +12,7 @@ Place the following in a bowl:
 | black pepper | 1 teaspoon |
 | brown sugar | 1 teaspoon |
 | cardamon | 1 teaspoon |
-| cayenne pepper | 1 teaspoon |
+| cayenne pepper | 1/2 teaspoon |
 | cinnamon | 1 teapspoon |
 | coriander | 1 tablespoon |
 | cumin seeds | 2 teaspoons |
