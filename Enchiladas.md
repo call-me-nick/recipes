@@ -69,6 +69,15 @@ In a large, rectangular baking pan:
 1. Fold and hold while doing the next one.
 1. Repeat until you run out of ingredients or out of room in your pan.
 
+## Bake
+
+1. Place the pan above in a COLD oven.
+1. Set oven to 400f.
+1. Timer for 12 minutes
+1. Turn off the oven.
+1. Timer for 12 minutes.
+1. Serve.
+
 ## Options
 
 It would be possible to use soy-curls or some other meat in place of the chicken.  This would need to be pre-prepared appropriately.
