@@ -13,6 +13,7 @@
 
 You can use a dry-rub here, if you wish. For example: lemon-pepper and goju garu If you decide to go this way, you may not need any barbeque sauce when the ribs are done baking.
 
+1. Spray or oil the inside of the Instant Pot to allow easy cleaning later!
 1. Put the rack in the bottom of the Instant Pot before putting in the ribs to allow a space for the liquid (to avoid a burn notice).
 1. Add water and vinegar below the rack.
 1. (Optional) Pull membrane off of the bone-side of the ribs.

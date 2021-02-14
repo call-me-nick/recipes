@@ -59,5 +59,5 @@ Put the Instant Pot in `Saute` mode, and add:
 ## Pressure Cook
 
 1. Turn off `Saute`.
-1. Turn on `Pressure Cook`, 30 minutes.
+1. Turn on `Pressure Cook`, 45 minutes.
 1. Natural depressurize for approximately 15 min.
