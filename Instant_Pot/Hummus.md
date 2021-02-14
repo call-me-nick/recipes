@@ -20,7 +20,7 @@ Place raw chickpeas in water and baking soda **overnight**.
 
 
 * Stir
-* Let it sit for 1 hour.
+* Cover and slow-cook ("normal" temperature) for 1.5 hours.
 
 ## Pressure Cook
 
