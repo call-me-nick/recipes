@@ -24,6 +24,7 @@ Place raw chickpeas in water and baking soda **overnight**.
 
 ## Pressure Cook
 
+* Stir *well*.
 * 10 minutes, high pressure
 * Natural depressurize
 
