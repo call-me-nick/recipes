@@ -9,14 +9,14 @@ Place raw chickpeas in water and baking soda **overnight**.
 | *ingredient* | *amount* |
 | --- | --- |
 | dried chickpeas | 2 cups |
-| water | 4 cups |
+| water | 6 cups |
 | baking soda | 1 teaspoon |
 | tahini | 1/4 cup |
 | garlic | 2 tablespoons minced |
 | lemon juice | 1/4 cup |
-| salt | 1 teaspoon |
+| salt | 1 tablespoon |
 | olive oil | 4 tablespoons |
-| cumin | 1 teaspoon |
+| cumin | 1 1/2 teaspoon |
 
 
 * Stir
@@ -37,8 +37,12 @@ Place raw chickpeas in water and baking soda **overnight**.
 The citric acid adds that 'tang'. It also may cause extra moisture to rise
 to the top of the refridgerated container.
 
-Using a potato-masher, mash the beans into a paste. Divide into containers and put in the fridge and/or freezer.
+* Using a potato-masher, mash the beans into a paste.
+* Squish the paste thru a strainer.
+* Divide into containers and put in the fridge and/or freezer.
 
 ## Options
 
 * Add 1/4 teaspoon smoked Paprika!
+* Add a line of olive oil on the surface.
+* Try with gojujang.
