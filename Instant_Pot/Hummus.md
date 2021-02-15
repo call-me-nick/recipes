@@ -47,4 +47,4 @@ to the top of the refridgerated container.
 * Add 1/4 teaspoon smoked Paprika!
 * Add a line of olive oil on the surface.
 * Gojujang.
-* Crazy salt, lemon pepper, or seasoning of your choice.
+* Crazy salt, lemon pepper, or other savory seasoning of your choice.
