@@ -18,7 +18,6 @@ Place raw chickpeas in water and baking soda **overnight**.
 | olive oil | 4 tablespoons |
 | cumin | 1 1/2 teaspoon |
 
-
 * Stir
 * Cover and slow-cook ("normal" temperature) for 1.5 hours.
 
@@ -28,7 +27,7 @@ Place raw chickpeas in water and baking soda **overnight**.
 * 10 minutes, high pressure
 * Natural depressurize
 
-## Finish
+## Final Preparation
 
 | *ingredient* | *amount* |
 | --- | --- |
@@ -39,12 +38,13 @@ to the top of the refridgerated container.
 
 * Using a potato-masher, mash the beans into a paste.
 * Squish the paste thru a strainer.
-* Let it cool for ~2 hours.
+* Let it cool for ~2 hours. It will jell like cream of wheat cereal.
 * Stir.
 * Divide into containers and put in the fridge and/or freezer.
 
-## Options
+## Try With
 
 * Add 1/4 teaspoon smoked Paprika!
 * Add a line of olive oil on the surface.
-* Try with gojujang.
+* Gojujang.
+* Crazy salt, lemon pepper, or seasoning of your choice.
