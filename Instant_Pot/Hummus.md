@@ -39,6 +39,8 @@ to the top of the refridgerated container.
 
 * Using a potato-masher, mash the beans into a paste.
 * Squish the paste thru a strainer.
+* Let it cool for ~2 hours.
+* Stir.
 * Divide into containers and put in the fridge and/or freezer.
 
 ## Options
