@@ -8,7 +8,7 @@ Instant Pot size: 3 quart
 | water | 1 cup |
 | sugar | 1/2 cup - OR, sweeten after cooking to taste |
 
-# Pressure Cook
+## Pressure Cook
 
 1. Cut up plums. (No need to remove the skins.)
 1. Add the water.
