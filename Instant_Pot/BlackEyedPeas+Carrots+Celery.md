@@ -1,6 +1,8 @@
-# Black Eyed Peas
+# Black Eyed Peas with Carrots and Celery
 
-Based on a verbally shared 'recipe' from the chef at [C.O.D. Ranch ](https://www.codranch.com/) in Oracle, AZ. (Thank you!)
+Instant Pot size: 3 quart
+
+Based on a verbally shared 'recipe' from the chef at [C.O.D. Ranch](https://www.codranch.com/) in Oracle, AZ. (Thank you!)
 
 This recipe is **vegan**.
 
@@ -38,7 +40,6 @@ Place the following in a bowl:
 | minced garlic | 1 tsp |
 | "Better Than Bouillon" | 1 tblsp |
 
-
 ## Saute
 
 Put the Instant Pot in `Saute` mode, and add:
@@ -46,7 +47,6 @@ Put the Instant Pot in `Saute` mode, and add:
 | *ingredient* | *amount* |
 | --- | --- |
 | olive oil | 3 tablespoons |
-
 
 1. Saute the onions until they are shiny and slippery looking.
 1. Add the carrots and celery.
