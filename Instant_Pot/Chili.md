@@ -63,4 +63,4 @@ Dump in the beans **with** the water.
 
 ## Pressure Cook
 
-Pressure cook for 18 minutes at high pressure and let it depressurize by itself naturally.
+Pressure cook for 35 minutes at high pressure and let it depressurize naturally.
