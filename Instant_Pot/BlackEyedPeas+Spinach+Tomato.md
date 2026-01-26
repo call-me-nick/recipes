@@ -1,6 +1,6 @@
 # Black Eyed Peas with Spinach and Tomato
 
-Instant Pot size: 3L
+Instant Pot size: 3 quart
 
 ## Soak Peas (4 hours or overnight then drained)
 

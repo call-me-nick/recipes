@@ -4,7 +4,7 @@ Instant Pot size: 3 quart
 
 | *ingredient* | *amount* |
 | --- | --- |
-| plums | cut to fill to max fill line |
+| plums | Cut up enough to fill to max fill line. |
 | water | 1 cup |
 | sugar | 1/2 cup - OR, sweeten after cooking to taste |
 
